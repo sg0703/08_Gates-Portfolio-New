@@ -13,11 +13,12 @@ For this homework assignment, I completely revised my portfolio page. I utilized
 4. Utilized jQuery to dynamically display content 
 5. Used Google Docs to generate a PDF resume
 6. Used GitHub to track changes to repository
+7. Selected three projects which showcase current skill level
 
 ## Link to deployed project
 
-See the deployed project by following this link: https://sg0703.github.io/06_Weather-App/
-See the code repository here: https://github.com/sg0703/06_Weather-App
+See the deployed project by following this link: https://sg0703.github.io/08_Gates-Portfolio-New/
+See the code repository here: https://github.com/sg0703/08_Gates-Portfolio-New
 
 ## Screenshots
 
