@@ -20,6 +20,10 @@ For this homework assignment, I completely revised my portfolio page. I utilized
 See the deployed project by following this link: https://sg0703.github.io/08_Gates-Portfolio-New/
 See the code repository here: https://github.com/sg0703/08_Gates-Portfolio-New
 
+## Collaborators
+
+Sam Gates (sam.j.gates@gmail.com)
+
 ## Screenshots
 
 ![first screenshot](Assets/images/screen1.png)
