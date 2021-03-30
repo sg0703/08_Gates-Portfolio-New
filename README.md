@@ -12,7 +12,7 @@ For this homework assignment, I completely revised my portfolio page. I utilized
 3. Utilized Bootstrap so that the page would have consistent styling and be responsive to different screen sizes
 4. Utilized jQuery to dynamically display content 
 5. Used Google Docs to generate a PDF resume
-6. Used GitHub to track changes to repository (used original from first submission)
+6. Used GitHub to track changes to repository
 
 ## Link to deployed project
 
