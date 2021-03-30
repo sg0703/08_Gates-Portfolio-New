@@ -1,0 +1,17 @@
+/* CSS Reset for Homework 2 */
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    line-height: 1;
+    font-family: times;
+    font-size: 100%;
+}
+ 
+ul {
+    list-style: none;
+}
